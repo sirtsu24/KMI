@@ -1,0 +1,11 @@
+C:\Users\Sirje\Desktop\KMI\KMI\bin\Debug\netcoreapp2.1\KMI.deps.json
+C:\Users\Sirje\Desktop\KMI\KMI\bin\Debug\netcoreapp2.1\KMI.runtimeconfig.json
+C:\Users\Sirje\Desktop\KMI\KMI\bin\Debug\netcoreapp2.1\KMI.runtimeconfig.dev.json
+C:\Users\Sirje\Desktop\KMI\KMI\bin\Debug\netcoreapp2.1\KMI.dll
+C:\Users\Sirje\Desktop\KMI\KMI\bin\Debug\netcoreapp2.1\KMI.pdb
+C:\Users\Sirje\Desktop\KMI\KMI\obj\Debug\netcoreapp2.1\KMI.csprojAssemblyReference.cache
+C:\Users\Sirje\Desktop\KMI\KMI\obj\Debug\netcoreapp2.1\KMI.csproj.CoreCompileInputs.cache
+C:\Users\Sirje\Desktop\KMI\KMI\obj\Debug\netcoreapp2.1\KMI.AssemblyInfoInputs.cache
+C:\Users\Sirje\Desktop\KMI\KMI\obj\Debug\netcoreapp2.1\KMI.AssemblyInfo.cs
+C:\Users\Sirje\Desktop\KMI\KMI\obj\Debug\netcoreapp2.1\KMI.dll
+C:\Users\Sirje\Desktop\KMI\KMI\obj\Debug\netcoreapp2.1\KMI.pdb
